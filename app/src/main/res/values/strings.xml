@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoH</string>
+    <string name="hint_dns_name">DNS Name</string>
+</resources>
